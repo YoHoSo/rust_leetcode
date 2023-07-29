@@ -1,0 +1,18 @@
+[package]
+name = "rust_leetcode"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[[bin]]
+name = "2325"
+
+[[bin]]
+name = "202"
+
+[[bin]]
+name = "575"
